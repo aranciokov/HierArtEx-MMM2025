@@ -23,4 +23,4 @@ SOON
 
 ### Acknowledgements
 
-This work was supported by MUR PRIN (Progetti di Ricerca di Rilevante Interesse Nazionale, Project code 2022YTE579_001 - CUP G53D23002930006) and by the EU (NextGenerationEU - PNRR M4.C2.1.1), and by the Department Strategic Plan (PSD) of the University of Udine - Interdepartmental Project on Artificial Intelligence (2020-25).
+This work was supported by the PRIN 2022 "MUSMA" - CUP G53D23002930006 - "Funded by EU - Next-Generation EU - M4 C2 I1.1", and by the Department Strategic Plan (PSD) of the University of Udine - Interdepartmental Project on Artificial Intelligence (2020-25).
