@@ -9,7 +9,7 @@ Abstract:
 
 ### General info on the structure
 
-The repository contains three Jupyter Notebooks for the HierArtEx method (Complex3DScenesRetrieval_HierArtEx_CameraReady.ipynb), the method without the art experts (Complex3DScenesRetrieval_HierArtEx_wo_ArtExp_CameraReady.ipynb), and the baseline (Complex3DScenesRetrieval_Baseline_CameraReady.ipynb). It further includes a Jupyter Notebook for the qualitative analysis reported in the paper (QualitativeAnalysis_CameraReady.ipynb), and a folder containing the details on how we trained the art experts. The train/val/test split is available in ```indices_museum_dataset.pkl```.
+The repository contains three Jupyter Notebooks for the HierArtEx method (Complex3DScenesRetrieval_HierArtEx_CameraReady.ipynb), the method without the art experts (Complex3DScenesRetrieval_HierArtEx_wo_ArtExp_CameraReady.ipynb), and the baseline (Complex3DScenesRetrieval_Baseline_CameraReady.ipynb). It further includes a Jupyter Notebook for the qualitative analysis reported in the paper (QualitativeAnalysis_CameraReady.ipynb), and a folder (ArtExp_train) containing the details on how we trained the art experts. The train/val/test split is available in ```indices_museum_dataset.pkl```.
 
 ### Data
 
