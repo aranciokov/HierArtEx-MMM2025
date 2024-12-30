@@ -1,6 +1,6 @@
 # HierArtEx: Hierarchical Representations and Art Experts Supporting the Retrieval of Museums in the Metaverse
 
-This code accompanies the paper "HierArtEx: Hierarchical Representations and Art Experts Supporting the Retrieval of Museums in the Metaverse" accepted for presentation at [MMM 2025](https://mmm2025.net/). [DOI]() [preprint]()
+This code accompanies the paper "HierArtEx: Hierarchical Representations and Art Experts Supporting the Retrieval of Museums in the Metaverse" accepted for presentation at [MMM 2025](https://mmm2025.net/). [DOI](https://doi.org/10.1007/978-981-96-2061-6_5) [preprint](https://ailab.uniud.it/wp-content/uploads/2024/12/MMM2025_HierArtEx.pdf)
 
 ![Overview of HierArtEx](assets/architecture.png?raw=true)
 
@@ -19,7 +19,30 @@ In this work, we relied on pre-extracted features from the Museums3k dataset (av
 
 ### Citation
 
-SOON
+If you found HierArtEx or the paired data at Museums3k useful, please cite our work:
+```
+@InProceedings{10.1007/978-981-96-2061-6_5,
+author="Falcon, Alex
+and Abdari, Ali
+and Serra, Giuseppe",
+editor="Ide, Ichiro
+and Kompatsiaris, Ioannis
+and Xu, Changsheng
+and Yanai, Keiji
+and Chu, Wei-Ta
+and Nitta, Naoko
+and Riegler, Michael
+and Yamasaki, Toshihiko",
+title="HierArtEx: Hierarchical Representations and Art Experts Supporting the Retrieval of Museums in the Metaverse",
+booktitle="MultiMedia Modeling",
+year="2025",
+publisher="Springer Nature Singapore",
+address="Singapore",
+pages="60--73",
+abstract="The improvements in Virtual Reality technologies are bringing more attention to the Metaverse and the nearly unlimited experiences available there. Among these, digital museums have seen an increase in the number of yearly visitors, especially after the COVID-19 pandemics. However, no tools are available to support the user in the searching process. To this end, we start investigating the Text-to-Museum retrieval task, involving museums composed of many rooms enriched by multimedia elements affecting their relevance to the user query. To model this complex type of data, we design HierArtEx, which leverages hierarchical representations to model the whole museum, while combining generic and art-specific knowledge for capturing the visual contents of each single room. We validate its effectiveness on Museums3k, a large dataset that we collect, containing 3000 realistic museums each annotated by a description of its contents. Moreover, qualitative analyses confirm favorable results and their alignment with real user queries, while also highlighting the shortcomings of standard evaluation protocols in retrieval, as they fail to capture all relevant museums.",
+isbn="978-981-96-2061-6"
+}
+```
 
 ### Acknowledgements
 
